@@ -1,0 +1,12 @@
+# Ensure text files have the correct line endings
+* text=auto
+
+# Explicitly set line endings for specific file types
+*.js text eol=lf
+*.jsx text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.json text eol=lf
+*.md text eol=lf
