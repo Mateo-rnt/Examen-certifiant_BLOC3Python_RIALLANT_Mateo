@@ -111,6 +111,17 @@ python manage.py migrate
 *5.Lancez le serveur frontend :*
 
 ```npm run dev```
+<br>
+
+**Étape 5 : Utilisation de l'Application**
+
+Accédez à l'application frontend en ouvrant votre navigateur et en visitant l'URL suivante :
+
+http://localhost:3000
+
+Accéder à la base de donnée du site en visitant cet URL : 
+
+http://localhost:8000/admin/
 
 
 <br>
