@@ -10,6 +10,14 @@ Ce guide vous expliquera comment installer et utiliser le projet OlympicTicket s
 Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur votre machine :
 <br><br>
 
+Git
+
+Python 3.8 ou supérieur
+
+Node.js et npm (Node Package Manager)
+
+MySQL
+
 **Étape 1 : Cloner le Répertoire**  
 <br>
 
